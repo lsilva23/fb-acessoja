@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "919110169348",
+    "firebase_url": "https://acesso-ja.firebaseio.com",
+    "project_id": "acesso-ja",
+    "storage_bucket": "acesso-ja.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:919110169348:android:b6c7fadf414cb488",
+        "android_client_info": {
+          "package_name": "com.panorama.acessoja"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "919110169348-6akee1qs0ahrhuicjk675sst9eompd6j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6V-_wNNPjZAOijLY2ZWbhki6tJZzPQhQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
